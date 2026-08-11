@@ -1,0 +1,53 @@
+{
+  "name": "hrm_browser",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@hookform/resolvers": "^5.7.1",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@vitejs/plugin-react": "^6.0.5",
+    "autoprefixer": "^10.5.4",
+    "axios": "^1.19.0",
+    "date-fns": "^4.4.0",
+    "lucide-react": "^1.31.0",
+    "postcss": "^8.5.26",
+    "react": "^19.2.8",
+    "react-big-calendar": "^1.20.0",
+    "react-dom": "^19.2.8",
+    "react-hook-form": "^7.85.0",
+    "react-router-dom": "^7.18.2",
+    "react-toastify": "^11.1.0",
+    "tailwindcss": "^3.4.1",
+    "vite": "^8.2.1",
+    "web-vitals": "^2.1.4",
+    "zod": "^4.4.3"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
