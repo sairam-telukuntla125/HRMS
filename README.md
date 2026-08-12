@@ -181,3 +181,23 @@ HRMS/
 │   └── package.json
 │
 └── README.md
+
+
+You can access the deployed HRMS application here:
+
+**Live Demo:** https://hrm-browser-hrm14.vercel.app
+
+🔐 Application Credentials
+
+The following demo accounts are available for testing the different roles in the HRMS application.
+
+| Role | Username | Password |
+|------|----------|----------|
+| Admin | admin@neuzen.ai | Password123! |
+| HR | hr1@neuzen.ai | Password123! |
+| Employee | emp1@neuzen.ai | Password123! |
+
+
+### 💡 Testing Tip
+
+For a better testing experience, open each role in a separate browser tab. This makes it easier to switch between **Admin, HR, and Employee** accounts and test the complete HRMS workflow.
